@@ -18,7 +18,7 @@ public class File {
         System.out.println(file.getPath());
 
         // Conditions
-        boolean fileExists =  file.exists() ? true : false;
+        boolean fileExists = file.exists();
 
         System.out.println(fileExists);
 

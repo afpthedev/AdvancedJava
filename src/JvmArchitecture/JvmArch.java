@@ -13,7 +13,7 @@ public class JvmArch {
         System.out.println(integerShape.getName() + " " + integerShape.getCircle());
 
         System.out.println("String shape Results");
-        System.out.println(stringShape.getName() + "" + stringShape.getCircle());
+        System.out.println(stringShape.getName() + stringShape.getCircle());
 
     }
 }
