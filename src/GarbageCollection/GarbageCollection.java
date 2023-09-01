@@ -4,6 +4,7 @@ public class GarbageCollection {
     
     public static void main(String[] args) {
         int i = 0 ;
+        String nesne = "ahmet";
 
         int j = 0 ;// referance based garbagee collecter has delete in runtime
 
